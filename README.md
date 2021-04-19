@@ -11,7 +11,6 @@ I'm Tae Gyun, Backend Developer🇰🇷
 <br>
 <br>
 
-![tgkim's GitHub stats](https://github-readme-stats.vercel.app/api?username=t-g-kim&show_icons=true&theme=radical)  
 
 <img src="https://raw.githubusercontent.com/t-g-kim/github-stats/ba577d27dc4cedcf123418f447b68717fcc2fcaf/generated/languages.svg"><img src="https://raw.githubusercontent.com/t-g-kim/github-stats/ba577d27dc4cedcf123418f447b68717fcc2fcaf/generated/overview.svg">
 
