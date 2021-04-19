@@ -1,10 +1,12 @@
-<a href="https://www.instagram.com/tg.kim/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+# :kr: &nbsp; <a href="https://www.instagram.com/tg.kim/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> [![Generic badge](https://img.shields.io/badge/Blog-tistory-yellow.svg)](https://je2ct.tistory.com/)
 <br>
-Hi there 👋,  
-:kr:&nbsp;&nbsp;I'm Tae Gyun, Backend Developer.  
+
+### Hi there 👋,  I'm Tae Gyun, Backend Developer.  
 <br>
+
 ```
-😎 Feel free to ask anythiong.  
+👊 
+😎 Feel free to ask anything.  
 📧 je23ct@gmail.com
 ```
 <br>
