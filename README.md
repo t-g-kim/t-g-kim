@@ -11,8 +11,6 @@ I'm Tae Gyun, Backend Developer🇰🇷
 <br>
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=t-g-kim&show_icons=true&theme=radical)  
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=t-g-kim)](https://github.com/anuraghazra/github-readme-stats)
+![tgkim's GitHub stats](https://github-readme-stats.vercel.app/api?username=t-g-kim&show_icons=true&theme=radical)  
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=je2ct)](https://solved.ac/je2ct)
