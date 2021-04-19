@@ -12,9 +12,8 @@
 <br>
 <br>
 
-
-<img src="https://raw.githubusercontent.com/t-g-kim/github-stats/ba577d27dc4cedcf123418f447b68717fcc2fcaf/generated/languages.svg"><img src="https://raw.githubusercontent.com/t-g-kim/github-stats/ba577d27dc4cedcf123418f447b68717fcc2fcaf/generated/overview.svg">
-
+![흠냐](https://raw.githubusercontent.com/t-g-kim/github-stats/ba577d27dc4cedcf123418f447b68717fcc2fcaf/generated/languages.svg)
+![흠냐](https://raw.githubusercontent.com/t-g-kim/github-stats/ba577d27dc4cedcf123418f447b68717fcc2fcaf/generated/overview.svg)
 <br>
 
 
