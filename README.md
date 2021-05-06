@@ -1,4 +1,4 @@
-# :kr: &nbsp; <a href="https://www.instagram.com/tg.kim/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> [![Generic badge](https://img.shields.io/badge/Blog-tistory-yellow.svg)](https://je2ct.tistory.com/)
+# :kr: &nbsp; <a href="https://www.instagram.com/tg.kim/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> <!-- [![Generic badge](https://img.shields.io/badge/Blog-tistory-yellow.svg)](https://je2ct.tistory.com/) -->
 <br>
 
 ### Hi there 👋,  I'm Tae Gyun, Backend Developer.  
@@ -12,8 +12,8 @@
 <br>
 <br>
 
-![흠냐](https://raw.githubusercontent.com/t-g-kim/github-stats/ba577d27dc4cedcf123418f447b68717fcc2fcaf/generated/languages.svg)
-![흠냐](https://raw.githubusercontent.com/t-g-kim/github-stats/ba577d27dc4cedcf123418f447b68717fcc2fcaf/generated/overview.svg)
+![](https://raw.githubusercontent.com/t-g-kim/github-stats/ba577d27dc4cedcf123418f447b68717fcc2fcaf/generated/languages.svg)
+![](https://raw.githubusercontent.com/t-g-kim/github-stats/ba577d27dc4cedcf123418f447b68717fcc2fcaf/generated/overview.svg)
 <br>
 
 
